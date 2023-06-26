@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/utilitywebsite/static/css/main.9008026f.css",
+    "main.js": "/utilitywebsite/static/js/main.3a149ecb.js",
+    "static/media/projects_giphy_App.png": "/utilitywebsite/static/media/projects_giphy_App.269483cee2344c09ca76.png",
+    "static/media/projects_entertaintment.png": "/utilitywebsite/static/media/projects_entertaintment.a1b23d81098f2f707638.png",
+    "static/media/projects_simpleFormMern.png": "/utilitywebsite/static/media/projects_simpleFormMern.01dc856cf0a243a9e590.png",
+    "static/media/projects_threejs.png": "/utilitywebsite/static/media/projects_threejs.24738a44ae1f1340ce84.png",
+    "static/media/projects_links_web.png": "/utilitywebsite/static/media/projects_links_web.b85d743631d697fec878.png",
+    "static/media/projects_speach_to_text.png": "/utilitywebsite/static/media/projects_speach_to_text.7e4aa72fe1e39ff698ca.png",
+    "static/media/projects_note.png": "/utilitywebsite/static/media/projects_note.069e56a6cf3fe9c1bed6.png",
+    "static/media/projects_quiz.png": "/utilitywebsite/static/media/projects_quiz.905b5d6d21a65862fc9c.png",
+    "static/media/projects_joke.png": "/utilitywebsite/static/media/projects_joke.6be56afbc20656185b2a.png",
+    "static/media/projects_type_to_speak.png": "/utilitywebsite/static/media/projects_type_to_speak.d85ef16135be61da63a6.png",
+    "static/media/Gilroy-Medium.ttf": "/utilitywebsite/static/media/Gilroy-Medium.f9f832b0ed3f1ab138c9.ttf",
+    "static/media/Gilroy-Regular.ttf": "/utilitywebsite/static/media/Gilroy-Regular.b91b0127c56a8e5f9e83.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/utilitywebsite/static/media/Gilroy-SemiBold.6780292641f883b3dad3.ttf",
+    "static/media/Gilroy-Bold.ttf": "/utilitywebsite/static/media/Gilroy-Bold.b900325e44ec0c673e88.ttf",
+    "static/media/Gilroy-ExtraBold.ttf": "/utilitywebsite/static/media/Gilroy-ExtraBold.0ac6879cd286550da903.ttf",
+    "static/media/projects_onlineSpreadSheet.png": "/utilitywebsite/static/media/projects_onlineSpreadSheet.646668c6ad493e47f126.png",
+    "static/media/projects_weatherApp.png": "/utilitywebsite/static/media/projects_weatherApp.5b32e13c59751f243173.png",
+    "static/media/projects_ToDoApp.png": "/utilitywebsite/static/media/projects_ToDoApp.17c9cd0c0bc11def747d.png",
+    "static/media/projects_chatApp.png": "/utilitywebsite/static/media/projects_chatApp.d6180e307ea8aadd2ca8.png",
+    "static/media/Alphacentauri-MVY4p.ttf": "/utilitywebsite/static/media/Alphacentauri-MVY4p.53d9fa1d78e2458beca8.ttf",
+    "index.html": "/utilitywebsite/index.html",
+    "main.9008026f.css.map": "/utilitywebsite/static/css/main.9008026f.css.map",
+    "main.3a149ecb.js.map": "/utilitywebsite/static/js/main.3a149ecb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9008026f.css",
+    "static/js/main.3a149ecb.js"
+  ]
+}
