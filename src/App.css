@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #131313;
+  overflow-x: hidden;
+  cursor: none;
+}
+
+.App{
+  z-index: 0;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: GilroyBold;
+  src: url("./font/Gilroy-Bold.ttf");
+}
+
+@font-face {
+  font-family: GilroySemiBold;
+  src: url("./font/Gilroy-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: GilroyMedium;
+  src: url("./font/Gilroy-Medium.ttf");
+}
+
+@font-face {
+  font-family: Gilroy;
+  src: url("./font/Gilroy-Regular.ttf");
+}
+
+@font-face {
+  font-family: GilroyExtraBold;
+  src: url("./font/Gilroy-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: Alphacentauri;
+  src: url("./font/Alphacentauri-MVY4p.ttf");
+}
+
+.starsCanvas{
+  position: relative;
+  z-index: 0;
+}
