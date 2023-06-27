@@ -1,11 +1,11 @@
 import React from 'react'
 import "./Loader.css";
 
-function Loader() {
+function Loader(props) {
   return (
     <div className="loader">
         <div className="about">
-            <a className="bg_links social portfolio" href="https://www.instagram.com/anirudhvadera/" target="_blank">
+            <a className="bg_links social portfolio" href="https://leetcode.com/AnirudhVadera/" target="_blank">
                 <span className="icon"></span>
             </a>
             <a className="bg_links social dribbble" href="https://github.com/ANIRUDH-VADERA" target="_blank">
@@ -32,7 +32,7 @@ function Loader() {
 
                 </div>
             </div>
-            <p>Loading...</p>
+            <p className="AboutP">{props.msg}</p>
         </div>
     </div>
   )

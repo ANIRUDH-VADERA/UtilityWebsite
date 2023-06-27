@@ -12,6 +12,18 @@ function App() {
 
   const [preLoader, setPreLoader] = useState(true);
 
+  const [isDesktop, setDesktop] = useState(window.innerWidth < 1450);
+
+  const updateMedia = () => {
+    setDesktop(window.innerWidth < 1450);
+  };
+
+  useEffect(() => {
+    window.addEventListener("resize", updateMedia);
+    return () => window.removeEventListener("resize", updateMedia);
+  });
+
+
   useEffect(() => {
     setTimeout(() => {
       setPreLoader(false);
@@ -22,7 +34,9 @@ function App() {
   return (
     <>
       <CustomCursor down={down} />
-      {preLoader ? <Loader /> :
+      {isDesktop ?<Loader msg = "Please View on Desktop" />  
+      : 
+      preLoader ? <Loader msg = "Loading..." /> :
         <div className="App">
         <div className="starsCanvas">
             <Projects />
@@ -30,6 +44,9 @@ function App() {
           </div>
       </div>
       }
+
+      
+      
     </>
   );
 }
